@@ -16,3 +16,5 @@ Enter a branch: git checkout <name-branch>
 
 Lazy:
 git checkout -b <name-branch>
+
+Let's see how the protection rule works
